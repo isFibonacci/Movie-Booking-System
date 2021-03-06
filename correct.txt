@@ -1,0 +1,7 @@
+R001 [F11, F12, F13, F14, F15, F16]
+R002 [F17, F18, F19]
+R003 [D10, D13, D14, D15, D8, D9, E11, E12, E13, G11, G12, G13, G14, G15, G16, G17, G18, G19, G9]
+R005 200 [Sorry, not enough available seat right now]
+R006 -11 [Invalid number of request seat]
+R007 [D11, D16, D17, D18, E14, E15, E16, E17, E18, E19, E9]
+R008
